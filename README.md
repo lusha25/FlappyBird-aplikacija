@@ -1,6 +1,6 @@
 # Flappy Bird
 
-![image](https://via.placeholder.com/150) <!-- Replace with actual Flappy Bird screenshot -->
+![image](https://github.com/user-attachments/assets/0670aaac-ad61-46dd-8cc3-136505551ccd)
 
 This project is a simple Flappy Bird game developed for **Android Studio**, where players navigate a bird through a series of obstacles by tapping the screen.
 
@@ -10,7 +10,6 @@ This project is a simple Flappy Bird game developed for **Android Studio**, wher
 - Score tracking based on pipes passed
 - Game over on collision with pipes or ground
 - Restart option after game over
-- Smooth animations and responsive controls
 
 ## Technologies Used
 - **Java** (game logic, Android Studio development)
